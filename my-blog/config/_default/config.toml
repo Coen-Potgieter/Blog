@@ -1,0 +1,5 @@
+# config/_default/config.toml
+
+baseURL = "https://example.org/"
+languageCode = "en"
+title = "My New Hugo Site"

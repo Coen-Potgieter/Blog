@@ -1,0 +1,12 @@
+# config/_default/languages.en.toml
+
+title = "THIS IS THE TITLE?"
+
+[params.author]
+name = "Coen Potgieter"
+image = "img/author.jpg"
+headline = "TEST headline"
+bio = "A little bit about me"
+links = [
+  { github = "https://github.com/Coen-Potgieter" }
+]
